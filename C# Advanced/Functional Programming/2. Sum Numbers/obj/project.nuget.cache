@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "4HvY88ahfTPDDfueLmWTnhiLKqORStp7E8oiGS+lQ5MY3GyOKVKFZ33jmLriiKgxBQHGW4K834sTG3Phx4bJjQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\marty\\source\\repos\\Functional Programming\\2. Sum Numbers\\2. Sum Numbers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marty\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.13\\microsoft.windowsdesktop.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\marty\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.13\\microsoft.netcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\marty\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.13\\microsoft.aspnetcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\marty\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.13\\microsoft.netcore.app.host.win-x64.6.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

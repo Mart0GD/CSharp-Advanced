@@ -1,0 +1,15 @@
+C:\Users\marty\source\repos\CSharp_Advanced\10. Crossroads\bin\Debug\net6.0\10. Crossroads.exe
+C:\Users\marty\source\repos\CSharp_Advanced\10. Crossroads\bin\Debug\net6.0\10. Crossroads.deps.json
+C:\Users\marty\source\repos\CSharp_Advanced\10. Crossroads\bin\Debug\net6.0\10. Crossroads.runtimeconfig.json
+C:\Users\marty\source\repos\CSharp_Advanced\10. Crossroads\bin\Debug\net6.0\10. Crossroads.dll
+C:\Users\marty\source\repos\CSharp_Advanced\10. Crossroads\bin\Debug\net6.0\10. Crossroads.pdb
+C:\Users\marty\source\repos\CSharp_Advanced\10. Crossroads\obj\Debug\net6.0\10. Crossroads.csproj.AssemblyReference.cache
+C:\Users\marty\source\repos\CSharp_Advanced\10. Crossroads\obj\Debug\net6.0\10. Crossroads.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marty\source\repos\CSharp_Advanced\10. Crossroads\obj\Debug\net6.0\10. Crossroads.AssemblyInfoInputs.cache
+C:\Users\marty\source\repos\CSharp_Advanced\10. Crossroads\obj\Debug\net6.0\10. Crossroads.AssemblyInfo.cs
+C:\Users\marty\source\repos\CSharp_Advanced\10. Crossroads\obj\Debug\net6.0\10. Crossroads.csproj.CoreCompileInputs.cache
+C:\Users\marty\source\repos\CSharp_Advanced\10. Crossroads\obj\Debug\net6.0\10. Crossroads.dll
+C:\Users\marty\source\repos\CSharp_Advanced\10. Crossroads\obj\Debug\net6.0\refint\10. Crossroads.dll
+C:\Users\marty\source\repos\CSharp_Advanced\10. Crossroads\obj\Debug\net6.0\10. Crossroads.pdb
+C:\Users\marty\source\repos\CSharp_Advanced\10. Crossroads\obj\Debug\net6.0\10. Crossroads.genruntimeconfig.cache
+C:\Users\marty\source\repos\CSharp_Advanced\10. Crossroads\obj\Debug\net6.0\ref\10. Crossroads.dll

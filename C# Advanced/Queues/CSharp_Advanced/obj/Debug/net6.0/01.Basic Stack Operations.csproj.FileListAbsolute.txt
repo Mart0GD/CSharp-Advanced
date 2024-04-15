@@ -1,0 +1,15 @@
+C:\Users\marty\source\repos\CSharp_Advanced\CSharp_Advanced\bin\Debug\net6.0\01.Basic Stack Operations.exe
+C:\Users\marty\source\repos\CSharp_Advanced\CSharp_Advanced\bin\Debug\net6.0\01.Basic Stack Operations.deps.json
+C:\Users\marty\source\repos\CSharp_Advanced\CSharp_Advanced\bin\Debug\net6.0\01.Basic Stack Operations.runtimeconfig.json
+C:\Users\marty\source\repos\CSharp_Advanced\CSharp_Advanced\bin\Debug\net6.0\01.Basic Stack Operations.dll
+C:\Users\marty\source\repos\CSharp_Advanced\CSharp_Advanced\bin\Debug\net6.0\01.Basic Stack Operations.pdb
+C:\Users\marty\source\repos\CSharp_Advanced\CSharp_Advanced\obj\Debug\net6.0\01.Basic Stack Operations.csproj.AssemblyReference.cache
+C:\Users\marty\source\repos\CSharp_Advanced\CSharp_Advanced\obj\Debug\net6.0\01.Basic Stack Operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marty\source\repos\CSharp_Advanced\CSharp_Advanced\obj\Debug\net6.0\01.Basic Stack Operations.AssemblyInfoInputs.cache
+C:\Users\marty\source\repos\CSharp_Advanced\CSharp_Advanced\obj\Debug\net6.0\01.Basic Stack Operations.AssemblyInfo.cs
+C:\Users\marty\source\repos\CSharp_Advanced\CSharp_Advanced\obj\Debug\net6.0\01.Basic Stack Operations.csproj.CoreCompileInputs.cache
+C:\Users\marty\source\repos\CSharp_Advanced\CSharp_Advanced\obj\Debug\net6.0\01.Basic Stack Operations.dll
+C:\Users\marty\source\repos\CSharp_Advanced\CSharp_Advanced\obj\Debug\net6.0\refint\01.Basic Stack Operations.dll
+C:\Users\marty\source\repos\CSharp_Advanced\CSharp_Advanced\obj\Debug\net6.0\01.Basic Stack Operations.pdb
+C:\Users\marty\source\repos\CSharp_Advanced\CSharp_Advanced\obj\Debug\net6.0\01.Basic Stack Operations.genruntimeconfig.cache
+C:\Users\marty\source\repos\CSharp_Advanced\CSharp_Advanced\obj\Debug\net6.0\ref\01.Basic Stack Operations.dll

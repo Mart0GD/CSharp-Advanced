@@ -1,0 +1,15 @@
+C:\Users\marty\source\repos\CSharp_Advanced\6. Songs Queue\bin\Debug\net6.0\6. Songs Queue.exe
+C:\Users\marty\source\repos\CSharp_Advanced\6. Songs Queue\bin\Debug\net6.0\6. Songs Queue.deps.json
+C:\Users\marty\source\repos\CSharp_Advanced\6. Songs Queue\bin\Debug\net6.0\6. Songs Queue.runtimeconfig.json
+C:\Users\marty\source\repos\CSharp_Advanced\6. Songs Queue\bin\Debug\net6.0\6. Songs Queue.dll
+C:\Users\marty\source\repos\CSharp_Advanced\6. Songs Queue\bin\Debug\net6.0\6. Songs Queue.pdb
+C:\Users\marty\source\repos\CSharp_Advanced\6. Songs Queue\obj\Debug\net6.0\6. Songs Queue.csproj.AssemblyReference.cache
+C:\Users\marty\source\repos\CSharp_Advanced\6. Songs Queue\obj\Debug\net6.0\6. Songs Queue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marty\source\repos\CSharp_Advanced\6. Songs Queue\obj\Debug\net6.0\6. Songs Queue.AssemblyInfoInputs.cache
+C:\Users\marty\source\repos\CSharp_Advanced\6. Songs Queue\obj\Debug\net6.0\6. Songs Queue.AssemblyInfo.cs
+C:\Users\marty\source\repos\CSharp_Advanced\6. Songs Queue\obj\Debug\net6.0\6. Songs Queue.csproj.CoreCompileInputs.cache
+C:\Users\marty\source\repos\CSharp_Advanced\6. Songs Queue\obj\Debug\net6.0\6. Songs Queue.dll
+C:\Users\marty\source\repos\CSharp_Advanced\6. Songs Queue\obj\Debug\net6.0\refint\6. Songs Queue.dll
+C:\Users\marty\source\repos\CSharp_Advanced\6. Songs Queue\obj\Debug\net6.0\6. Songs Queue.pdb
+C:\Users\marty\source\repos\CSharp_Advanced\6. Songs Queue\obj\Debug\net6.0\6. Songs Queue.genruntimeconfig.cache
+C:\Users\marty\source\repos\CSharp_Advanced\6. Songs Queue\obj\Debug\net6.0\ref\6. Songs Queue.dll

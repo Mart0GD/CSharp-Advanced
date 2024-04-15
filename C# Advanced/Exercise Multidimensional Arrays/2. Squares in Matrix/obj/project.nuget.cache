@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "UplVv45HdqHKG63tVHgP4nYo0fE2Mo7ptAYhSwBaPTk7L3MtbHc2gCmEwzhHUDfUtGluQ5/p9mpbhrkT55hGvg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\marty\\source\\repos\\Exercise Multidimensional Arrays\\2. Squares in Matrix\\2. Squares in Matrix.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marty\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.13\\microsoft.windowsdesktop.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\marty\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.13\\microsoft.netcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\marty\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.13\\microsoft.aspnetcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\marty\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.13\\microsoft.netcore.app.host.win-x64.6.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

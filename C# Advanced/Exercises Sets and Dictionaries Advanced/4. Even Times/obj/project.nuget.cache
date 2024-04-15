@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "dTRK9CimkO0G/xssil7oLrJdkhrYtj+XDxlHgJg3HB+yme3Syb83HAPurr2BRWZjdQ6VdC+6SpcO3ed9nDMh/Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\marty\\source\\repos\\Exercises Sets and Dictionaries Advanced\\4. Even Times\\4. Even Times.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marty\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.13\\microsoft.windowsdesktop.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\marty\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.13\\microsoft.netcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\marty\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.13\\microsoft.aspnetcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\marty\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.13\\microsoft.netcore.app.host.win-x64.6.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

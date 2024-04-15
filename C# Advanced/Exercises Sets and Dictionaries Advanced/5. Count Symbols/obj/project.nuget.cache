@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "A5TylnV17W+t5Q68F/EbE/Hv4OFrLEn1ao4Kmw02kh0BzlovTp3WHgx7vt9ToIwAGAIvhH8Vf5qBO+p0f34J3g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\marty\\source\\repos\\Exercises Sets and Dictionaries Advanced\\5. Count Symbols\\5. Count Symbols.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marty\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.13\\microsoft.windowsdesktop.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\marty\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.13\\microsoft.netcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\marty\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.13\\microsoft.aspnetcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\marty\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.13\\microsoft.netcore.app.host.win-x64.6.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

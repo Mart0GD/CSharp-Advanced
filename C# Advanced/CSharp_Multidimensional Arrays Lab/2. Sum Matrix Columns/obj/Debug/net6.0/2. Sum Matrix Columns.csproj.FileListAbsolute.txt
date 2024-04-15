@@ -1,0 +1,15 @@
+C:\Users\marty\source\repos\CSharp_Multidimensional Arrays Lab\2. Sum Matrix Columns\bin\Debug\net6.0\2. Sum Matrix Columns.exe
+C:\Users\marty\source\repos\CSharp_Multidimensional Arrays Lab\2. Sum Matrix Columns\bin\Debug\net6.0\2. Sum Matrix Columns.deps.json
+C:\Users\marty\source\repos\CSharp_Multidimensional Arrays Lab\2. Sum Matrix Columns\bin\Debug\net6.0\2. Sum Matrix Columns.runtimeconfig.json
+C:\Users\marty\source\repos\CSharp_Multidimensional Arrays Lab\2. Sum Matrix Columns\bin\Debug\net6.0\2. Sum Matrix Columns.dll
+C:\Users\marty\source\repos\CSharp_Multidimensional Arrays Lab\2. Sum Matrix Columns\bin\Debug\net6.0\2. Sum Matrix Columns.pdb
+C:\Users\marty\source\repos\CSharp_Multidimensional Arrays Lab\2. Sum Matrix Columns\obj\Debug\net6.0\2. Sum Matrix Columns.csproj.AssemblyReference.cache
+C:\Users\marty\source\repos\CSharp_Multidimensional Arrays Lab\2. Sum Matrix Columns\obj\Debug\net6.0\2. Sum Matrix Columns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marty\source\repos\CSharp_Multidimensional Arrays Lab\2. Sum Matrix Columns\obj\Debug\net6.0\2. Sum Matrix Columns.AssemblyInfoInputs.cache
+C:\Users\marty\source\repos\CSharp_Multidimensional Arrays Lab\2. Sum Matrix Columns\obj\Debug\net6.0\2. Sum Matrix Columns.AssemblyInfo.cs
+C:\Users\marty\source\repos\CSharp_Multidimensional Arrays Lab\2. Sum Matrix Columns\obj\Debug\net6.0\2. Sum Matrix Columns.csproj.CoreCompileInputs.cache
+C:\Users\marty\source\repos\CSharp_Multidimensional Arrays Lab\2. Sum Matrix Columns\obj\Debug\net6.0\2. Sum Matrix Columns.dll
+C:\Users\marty\source\repos\CSharp_Multidimensional Arrays Lab\2. Sum Matrix Columns\obj\Debug\net6.0\refint\2. Sum Matrix Columns.dll
+C:\Users\marty\source\repos\CSharp_Multidimensional Arrays Lab\2. Sum Matrix Columns\obj\Debug\net6.0\2. Sum Matrix Columns.pdb
+C:\Users\marty\source\repos\CSharp_Multidimensional Arrays Lab\2. Sum Matrix Columns\obj\Debug\net6.0\2. Sum Matrix Columns.genruntimeconfig.cache
+C:\Users\marty\source\repos\CSharp_Multidimensional Arrays Lab\2. Sum Matrix Columns\obj\Debug\net6.0\ref\2. Sum Matrix Columns.dll

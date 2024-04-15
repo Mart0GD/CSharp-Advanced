@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Hi28e5WZh5dR1PSHxnbwpA06ds7wzP36ogq0zy30ia30mIsiySdOXqUCiVBLTToNUt9R/lVGILA/vW/jcFIbaQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\marty\\source\\repos\\Lab Sets and Dictionaries Advanced\\6. Record Unique Names\\6. Record Unique Names.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marty\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.13\\microsoft.windowsdesktop.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\marty\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.13\\microsoft.netcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\marty\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.13\\microsoft.aspnetcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\marty\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.13\\microsoft.netcore.app.host.win-x64.6.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

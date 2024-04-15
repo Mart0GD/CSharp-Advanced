@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "oUzq7RGlSJ5sPXnJyMG2fvOiMQ3TIVXF+niPGjxerTAqnuhvVJ+i7VBUzvPnz+e5Rdjm74r+VrJ6t+7DE7CzBg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\marty\\OneDrive\\Documents\\SoftUni Advanced\\Defining Classes\\Defining Classes\\CarManufacturer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marty\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.13\\microsoft.windowsdesktop.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\marty\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.13\\microsoft.netcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\marty\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.13\\microsoft.aspnetcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\marty\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.13\\microsoft.netcore.app.host.win-x64.6.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

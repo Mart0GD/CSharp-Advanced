@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "pe3wDiERcqlhMv6ctKC501YBfwrMGlXfo4dtFimdMZTDu8Es2lbu4R7oqbxHUeBZjcJ4zXtQfarYZfH50l67Bg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\marty\\source\\repos\\Lab Sets and Dictionaries Advanced\\8. SoftUni Party\\8. SoftUni Party.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marty\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.13\\microsoft.windowsdesktop.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\marty\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.13\\microsoft.netcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\marty\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.13\\microsoft.aspnetcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\marty\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.13\\microsoft.netcore.app.host.win-x64.6.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

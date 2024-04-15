@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "LV2c30+Nd3yxRc/oy5bdoQ9c/Fc48yPxjZuJ3ZD7OE16kdEOMzcVVAZdtthFURS2dBlUA98cVncYj4+vFSrcrQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\marty\\source\\repos\\Exercises Sets and Dictionaries Advanced\\6. Wardrobe\\6. Wardrobe.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marty\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.13\\microsoft.windowsdesktop.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\marty\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.13\\microsoft.netcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\marty\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.13\\microsoft.aspnetcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\marty\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.13\\microsoft.netcore.app.host.win-x64.6.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

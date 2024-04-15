@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Mq+q2pF5iKKVQS0/KW11eWuXKwJ7lfd3hSxx4nsCCdlOPTLhm5p16tBga/r33As+AsNL4kPCDiCeJFwyqj8mvQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\marty\\OneDrive\\Documents\\SoftUni Advanced\\Creating Custom Data Structures\\Stack\\Stack.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marty\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.13\\microsoft.windowsdesktop.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\marty\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.13\\microsoft.netcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\marty\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.13\\microsoft.aspnetcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\marty\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.13\\microsoft.netcore.app.host.win-x64.6.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

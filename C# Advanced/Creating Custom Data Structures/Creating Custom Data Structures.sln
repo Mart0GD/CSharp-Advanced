@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomList", "Creating Custom Data Structures\CustomList.csproj", "{C1BA101E-66A0-4137-BD74-F5EFA9575009}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stack", "Stack\Stack.csproj", "{209DAB7E-53A7-4471-9D7F-FFE032D5919F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Queue", "Queue\Queue.csproj", "{77966A13-0DE4-4A7E-9146-B8A9E68E196A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1BA101E-66A0-4137-BD74-F5EFA9575009}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1BA101E-66A0-4137-BD74-F5EFA9575009}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1BA101E-66A0-4137-BD74-F5EFA9575009}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1BA101E-66A0-4137-BD74-F5EFA9575009}.Release|Any CPU.Build.0 = Release|Any CPU
+		{209DAB7E-53A7-4471-9D7F-FFE032D5919F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{209DAB7E-53A7-4471-9D7F-FFE032D5919F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{209DAB7E-53A7-4471-9D7F-FFE032D5919F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{209DAB7E-53A7-4471-9D7F-FFE032D5919F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77966A13-0DE4-4A7E-9146-B8A9E68E196A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77966A13-0DE4-4A7E-9146-B8A9E68E196A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77966A13-0DE4-4A7E-9146-B8A9E68E196A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77966A13-0DE4-4A7E-9146-B8A9E68E196A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {684812C3-10EA-4B89-9B9D-EF5C6024DC60}
+	EndGlobalSection
+EndGlobal

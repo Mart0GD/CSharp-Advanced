@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "mJqZSNa4EEV183eKDZ+ect8vrWXOp90drWfuwUeas3XWfhKgdGkZl/h09s6YM7Z4p1Ky8QKVzmvgG81rAJvGPw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\marty\\source\\repos\\Exercise Multidimensional Arrays\\Exercise Multidimensional Arrays\\1. Diagonal Difference.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marty\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.13\\microsoft.windowsdesktop.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\marty\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.13\\microsoft.netcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\marty\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.13\\microsoft.aspnetcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\marty\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.13\\microsoft.netcore.app.host.win-x64.6.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+C:\Users\marty\source\repos\Exercises Functional Programming\7. Predicate for Names\bin\Debug\net6.0\7. Predicate for Names.exe
+C:\Users\marty\source\repos\Exercises Functional Programming\7. Predicate for Names\bin\Debug\net6.0\7. Predicate for Names.deps.json
+C:\Users\marty\source\repos\Exercises Functional Programming\7. Predicate for Names\bin\Debug\net6.0\7. Predicate for Names.runtimeconfig.json
+C:\Users\marty\source\repos\Exercises Functional Programming\7. Predicate for Names\bin\Debug\net6.0\7. Predicate for Names.dll
+C:\Users\marty\source\repos\Exercises Functional Programming\7. Predicate for Names\bin\Debug\net6.0\7. Predicate for Names.pdb
+C:\Users\marty\source\repos\Exercises Functional Programming\7. Predicate for Names\obj\Debug\net6.0\7. Predicate for Names.csproj.AssemblyReference.cache
+C:\Users\marty\source\repos\Exercises Functional Programming\7. Predicate for Names\obj\Debug\net6.0\7. Predicate for Names.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marty\source\repos\Exercises Functional Programming\7. Predicate for Names\obj\Debug\net6.0\7. Predicate for Names.AssemblyInfoInputs.cache
+C:\Users\marty\source\repos\Exercises Functional Programming\7. Predicate for Names\obj\Debug\net6.0\7. Predicate for Names.AssemblyInfo.cs
+C:\Users\marty\source\repos\Exercises Functional Programming\7. Predicate for Names\obj\Debug\net6.0\7. Predicate for Names.csproj.CoreCompileInputs.cache
+C:\Users\marty\source\repos\Exercises Functional Programming\7. Predicate for Names\obj\Debug\net6.0\7. Predicate for Names.dll
+C:\Users\marty\source\repos\Exercises Functional Programming\7. Predicate for Names\obj\Debug\net6.0\refint\7. Predicate for Names.dll
+C:\Users\marty\source\repos\Exercises Functional Programming\7. Predicate for Names\obj\Debug\net6.0\7. Predicate for Names.pdb
+C:\Users\marty\source\repos\Exercises Functional Programming\7. Predicate for Names\obj\Debug\net6.0\7. Predicate for Names.genruntimeconfig.cache
+C:\Users\marty\source\repos\Exercises Functional Programming\7. Predicate for Names\obj\Debug\net6.0\ref\7. Predicate for Names.dll

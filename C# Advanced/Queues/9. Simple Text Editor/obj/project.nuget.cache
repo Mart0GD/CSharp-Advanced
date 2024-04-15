@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "XToQQcq7Inrys9JmRuTOkX0p1Eh3XHLiFqr2A1gz9zpWemLoLGKKjn0fKn/0PCoKh5JixMhnX0DE1hV8667oXg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\marty\\source\\repos\\CSharp_Advanced\\9. Simple Text Editor\\9. Simple Text Editor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marty\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.13\\microsoft.windowsdesktop.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\marty\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.13\\microsoft.netcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\marty\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.13\\microsoft.aspnetcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\marty\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.13\\microsoft.netcore.app.host.win-x64.6.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

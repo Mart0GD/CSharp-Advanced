@@ -1,0 +1,15 @@
+C:\Users\marty\source\repos\Exercises Functional Programming\6. Reverse and Exclude\bin\Debug\net6.0\6. Reverse and Exclude.exe
+C:\Users\marty\source\repos\Exercises Functional Programming\6. Reverse and Exclude\bin\Debug\net6.0\6. Reverse and Exclude.deps.json
+C:\Users\marty\source\repos\Exercises Functional Programming\6. Reverse and Exclude\bin\Debug\net6.0\6. Reverse and Exclude.runtimeconfig.json
+C:\Users\marty\source\repos\Exercises Functional Programming\6. Reverse and Exclude\bin\Debug\net6.0\6. Reverse and Exclude.dll
+C:\Users\marty\source\repos\Exercises Functional Programming\6. Reverse and Exclude\bin\Debug\net6.0\6. Reverse and Exclude.pdb
+C:\Users\marty\source\repos\Exercises Functional Programming\6. Reverse and Exclude\obj\Debug\net6.0\6. Reverse and Exclude.csproj.AssemblyReference.cache
+C:\Users\marty\source\repos\Exercises Functional Programming\6. Reverse and Exclude\obj\Debug\net6.0\6. Reverse and Exclude.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marty\source\repos\Exercises Functional Programming\6. Reverse and Exclude\obj\Debug\net6.0\6. Reverse and Exclude.AssemblyInfoInputs.cache
+C:\Users\marty\source\repos\Exercises Functional Programming\6. Reverse and Exclude\obj\Debug\net6.0\6. Reverse and Exclude.AssemblyInfo.cs
+C:\Users\marty\source\repos\Exercises Functional Programming\6. Reverse and Exclude\obj\Debug\net6.0\6. Reverse and Exclude.csproj.CoreCompileInputs.cache
+C:\Users\marty\source\repos\Exercises Functional Programming\6. Reverse and Exclude\obj\Debug\net6.0\6. Reverse and Exclude.dll
+C:\Users\marty\source\repos\Exercises Functional Programming\6. Reverse and Exclude\obj\Debug\net6.0\refint\6. Reverse and Exclude.dll
+C:\Users\marty\source\repos\Exercises Functional Programming\6. Reverse and Exclude\obj\Debug\net6.0\6. Reverse and Exclude.pdb
+C:\Users\marty\source\repos\Exercises Functional Programming\6. Reverse and Exclude\obj\Debug\net6.0\6. Reverse and Exclude.genruntimeconfig.cache
+C:\Users\marty\source\repos\Exercises Functional Programming\6. Reverse and Exclude\obj\Debug\net6.0\ref\6. Reverse and Exclude.dll

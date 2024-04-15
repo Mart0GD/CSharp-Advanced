@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "z1iH7qHucuY5tlIB7TOrVUx7LQs7L2Ju8iWhwJRgBG+4f96ewO080coC/PDRPGW2wcswU0YX3bAqLaD3lIXWrQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\marty\\source\\repos\\Streams, Files and Directories\\Streams, Files and Directories\\1. Odd Lines.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marty\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.13\\microsoft.windowsdesktop.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\marty\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.13\\microsoft.netcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\marty\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.13\\microsoft.aspnetcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\marty\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.13\\microsoft.netcore.app.host.win-x64.6.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

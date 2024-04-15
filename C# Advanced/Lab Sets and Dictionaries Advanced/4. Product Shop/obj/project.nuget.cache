@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "OUWOb6b1hRxmc1Ur0a+I70hghYemMbg8d7dc9w6tFsGGhzSMD2noDGi3ajyytZtQ4ysuPHXRfs/jjssaF8HVFA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\marty\\source\\repos\\Lab Sets and Dictionaries Advanced\\4. Product Shop\\4. Product Shop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marty\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.13\\microsoft.windowsdesktop.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\marty\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.13\\microsoft.netcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\marty\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.13\\microsoft.aspnetcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\marty\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.13\\microsoft.netcore.app.host.win-x64.6.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

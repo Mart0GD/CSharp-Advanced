@@ -1,0 +1,15 @@
+C:\Users\marty\source\repos\Streams, Files and Directories\Streams, Files and Directories\bin\Debug\net6.0\1. Odd Lines.exe
+C:\Users\marty\source\repos\Streams, Files and Directories\Streams, Files and Directories\bin\Debug\net6.0\1. Odd Lines.deps.json
+C:\Users\marty\source\repos\Streams, Files and Directories\Streams, Files and Directories\bin\Debug\net6.0\1. Odd Lines.runtimeconfig.json
+C:\Users\marty\source\repos\Streams, Files and Directories\Streams, Files and Directories\bin\Debug\net6.0\1. Odd Lines.dll
+C:\Users\marty\source\repos\Streams, Files and Directories\Streams, Files and Directories\bin\Debug\net6.0\1. Odd Lines.pdb
+C:\Users\marty\source\repos\Streams, Files and Directories\Streams, Files and Directories\obj\Debug\net6.0\1. Odd Lines.csproj.AssemblyReference.cache
+C:\Users\marty\source\repos\Streams, Files and Directories\Streams, Files and Directories\obj\Debug\net6.0\1. Odd Lines.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marty\source\repos\Streams, Files and Directories\Streams, Files and Directories\obj\Debug\net6.0\1. Odd Lines.AssemblyInfoInputs.cache
+C:\Users\marty\source\repos\Streams, Files and Directories\Streams, Files and Directories\obj\Debug\net6.0\1. Odd Lines.AssemblyInfo.cs
+C:\Users\marty\source\repos\Streams, Files and Directories\Streams, Files and Directories\obj\Debug\net6.0\1. Odd Lines.csproj.CoreCompileInputs.cache
+C:\Users\marty\source\repos\Streams, Files and Directories\Streams, Files and Directories\obj\Debug\net6.0\1. Odd Lines.dll
+C:\Users\marty\source\repos\Streams, Files and Directories\Streams, Files and Directories\obj\Debug\net6.0\refint\1. Odd Lines.dll
+C:\Users\marty\source\repos\Streams, Files and Directories\Streams, Files and Directories\obj\Debug\net6.0\1. Odd Lines.pdb
+C:\Users\marty\source\repos\Streams, Files and Directories\Streams, Files and Directories\obj\Debug\net6.0\1. Odd Lines.genruntimeconfig.cache
+C:\Users\marty\source\repos\Streams, Files and Directories\Streams, Files and Directories\obj\Debug\net6.0\ref\1. Odd Lines.dll

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "W4MRpK6K07jwMg3egyP2s6sZ11uQCod5SAQb5BQdgOA/gjtfuS7uUq6ysW2zr0c0O07a9gjmiK2Tqdkmhn3c/w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\marty\\source\\repos\\CSharp_Advanced\\8. Balanced Parentheses\\8. Balanced Parentheses.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marty\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.13\\microsoft.windowsdesktop.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\marty\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.13\\microsoft.netcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\marty\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.13\\microsoft.aspnetcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\marty\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.13\\microsoft.netcore.app.host.win-x64.6.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

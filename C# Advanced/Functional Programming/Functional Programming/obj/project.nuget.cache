@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "hz1lm5hFqNCj8AivXjtaEyP9kKd0ZHXaPMjkeAT2VQmnSBIRQ1Tj7lJmVgd1caf6usKF+cpjnO4vAlvr6bN/Gg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\marty\\source\\repos\\Functional Programming\\Functional Programming\\1. Sort Even Numbers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marty\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.13\\microsoft.windowsdesktop.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\marty\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.13\\microsoft.netcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\marty\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.13\\microsoft.aspnetcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\marty\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.13\\microsoft.netcore.app.host.win-x64.6.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

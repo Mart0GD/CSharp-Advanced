@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "FVWDyFLOtpJQW637vm6JKkAuoVmQ7s5jg2rXCgjGxUuKg9CyE3fVIsIjweL5ZfMH1NQeS8VhfiuO08nPlhvhYg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\marty\\source\\repos\\Exercises Sets and Dictionaries Advanced\\7. The V-Logger\\7. The V-Logger.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marty\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.13\\microsoft.windowsdesktop.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\marty\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.13\\microsoft.netcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\marty\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.13\\microsoft.aspnetcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\marty\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.13\\microsoft.netcore.app.host.win-x64.6.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

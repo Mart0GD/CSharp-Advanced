@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "yDgHhpyzcn/PGv3bXGLQNcuU4xDUWYGBwOxYeicCjSlXtRS0pZMe1KE1PjJt51dBoP6YruRimELBsDYrT6KPzQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\marty\\source\\repos\\CSharp_Advanced\\Maximum and Minimum Element\\03.Maximum and Minimum Element.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marty\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.13\\microsoft.windowsdesktop.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\marty\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.13\\microsoft.netcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\marty\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.13\\microsoft.aspnetcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\marty\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.13\\microsoft.netcore.app.host.win-x64.6.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

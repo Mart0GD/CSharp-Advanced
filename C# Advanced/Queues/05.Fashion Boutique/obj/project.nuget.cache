@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "YKZ+KPG50wa0imUTLEKIR7MAtH0MROgg6e4Hshy1FKYhv2lw2krmefoPj/hOSQs+EAFdoTaIfLp/TXW0ltJSqQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\marty\\source\\repos\\CSharp_Advanced\\05.Fashion Boutique\\05.Fashion Boutique.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marty\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.13\\microsoft.windowsdesktop.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\marty\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.13\\microsoft.netcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\marty\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.13\\microsoft.aspnetcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\marty\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.13\\microsoft.netcore.app.host.win-x64.6.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

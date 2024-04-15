@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "njd2z85ysh5DA2rHlLmehlqGyBT6NoMk07z59wC0/JEsEhuQqbpB4STpWii0psuUxphQers1q78RZ6PxzQ3XRw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\marty\\source\\repos\\Exercises Sets and Dictionaries Advanced\\10. ForceBook\\91 ForceBook.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marty\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.13\\microsoft.windowsdesktop.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\marty\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.13\\microsoft.netcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\marty\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.13\\microsoft.aspnetcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\marty\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.13\\microsoft.netcore.app.host.win-x64.6.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

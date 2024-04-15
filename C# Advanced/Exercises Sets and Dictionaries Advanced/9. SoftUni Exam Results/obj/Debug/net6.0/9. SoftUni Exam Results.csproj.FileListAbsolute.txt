@@ -1,0 +1,15 @@
+C:\Users\marty\source\repos\Exercises Sets and Dictionaries Advanced\9. SoftUni Exam Results\bin\Debug\net6.0\9. SoftUni Exam Results.exe
+C:\Users\marty\source\repos\Exercises Sets and Dictionaries Advanced\9. SoftUni Exam Results\bin\Debug\net6.0\9. SoftUni Exam Results.deps.json
+C:\Users\marty\source\repos\Exercises Sets and Dictionaries Advanced\9. SoftUni Exam Results\bin\Debug\net6.0\9. SoftUni Exam Results.runtimeconfig.json
+C:\Users\marty\source\repos\Exercises Sets and Dictionaries Advanced\9. SoftUni Exam Results\bin\Debug\net6.0\9. SoftUni Exam Results.dll
+C:\Users\marty\source\repos\Exercises Sets and Dictionaries Advanced\9. SoftUni Exam Results\bin\Debug\net6.0\9. SoftUni Exam Results.pdb
+C:\Users\marty\source\repos\Exercises Sets and Dictionaries Advanced\9. SoftUni Exam Results\obj\Debug\net6.0\9. SoftUni Exam Results.csproj.AssemblyReference.cache
+C:\Users\marty\source\repos\Exercises Sets and Dictionaries Advanced\9. SoftUni Exam Results\obj\Debug\net6.0\9. SoftUni Exam Results.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marty\source\repos\Exercises Sets and Dictionaries Advanced\9. SoftUni Exam Results\obj\Debug\net6.0\9. SoftUni Exam Results.AssemblyInfoInputs.cache
+C:\Users\marty\source\repos\Exercises Sets and Dictionaries Advanced\9. SoftUni Exam Results\obj\Debug\net6.0\9. SoftUni Exam Results.AssemblyInfo.cs
+C:\Users\marty\source\repos\Exercises Sets and Dictionaries Advanced\9. SoftUni Exam Results\obj\Debug\net6.0\9. SoftUni Exam Results.csproj.CoreCompileInputs.cache
+C:\Users\marty\source\repos\Exercises Sets and Dictionaries Advanced\9. SoftUni Exam Results\obj\Debug\net6.0\9. SoftUni Exam Results.dll
+C:\Users\marty\source\repos\Exercises Sets and Dictionaries Advanced\9. SoftUni Exam Results\obj\Debug\net6.0\refint\9. SoftUni Exam Results.dll
+C:\Users\marty\source\repos\Exercises Sets and Dictionaries Advanced\9. SoftUni Exam Results\obj\Debug\net6.0\9. SoftUni Exam Results.pdb
+C:\Users\marty\source\repos\Exercises Sets and Dictionaries Advanced\9. SoftUni Exam Results\obj\Debug\net6.0\9. SoftUni Exam Results.genruntimeconfig.cache
+C:\Users\marty\source\repos\Exercises Sets and Dictionaries Advanced\9. SoftUni Exam Results\obj\Debug\net6.0\ref\9. SoftUni Exam Results.dll

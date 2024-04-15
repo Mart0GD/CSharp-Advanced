@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "pibKKZ4uUY2Ht5e6W2JA5Y2N2C4IrHBhKZfW7E/EpgOnN3Dzdss/7V1tzqyU/e42DlHAuoU5zbvfb4Q25I6+Og==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\marty\\source\\repos\\CSharp_Advanced\\Basic Queue Operations\\02.Basic Queue Operations.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marty\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.13\\microsoft.windowsdesktop.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\marty\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.13\\microsoft.netcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\marty\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.13\\microsoft.aspnetcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\marty\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.13\\microsoft.netcore.app.host.win-x64.6.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

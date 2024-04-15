@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "r8osA/idOhSVM0qmTHcCEFNJtcF1xcJnoNbH7Xz81nzqJ0c4D8YqN9Nrv+1mhv4gWcx6Gz8y6R2p21Yc/y1mkw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\marty\\OneDrive\\Documents\\SoftUni Advanced\\Creating Custom Data Structures\\Creating Custom Data Structures\\CustomList.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marty\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.13\\microsoft.windowsdesktop.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\marty\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.13\\microsoft.netcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\marty\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.13\\microsoft.aspnetcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\marty\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.13\\microsoft.netcore.app.host.win-x64.6.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

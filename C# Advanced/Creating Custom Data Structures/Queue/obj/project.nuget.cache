@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "F6tfDoFkV2sPV6ZilOsYQm069FCARkCxE/L2o/j4fDpsVHHGOqKiSA72lauCk86grVZjwiP+IKtUbBdgYtkr3Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\marty\\OneDrive\\Documents\\SoftUni Advanced\\Creating Custom Data Structures\\Queue\\Queue.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marty\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.13\\microsoft.windowsdesktop.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\marty\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.13\\microsoft.netcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\marty\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.13\\microsoft.aspnetcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\marty\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.13\\microsoft.netcore.app.host.win-x64.6.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

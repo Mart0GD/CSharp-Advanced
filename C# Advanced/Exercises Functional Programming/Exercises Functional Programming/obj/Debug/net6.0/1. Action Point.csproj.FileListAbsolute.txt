@@ -1,0 +1,15 @@
+C:\Users\marty\source\repos\Exercises Functional Programming\Exercises Functional Programming\bin\Debug\net6.0\1. Action Point.exe
+C:\Users\marty\source\repos\Exercises Functional Programming\Exercises Functional Programming\bin\Debug\net6.0\1. Action Point.deps.json
+C:\Users\marty\source\repos\Exercises Functional Programming\Exercises Functional Programming\bin\Debug\net6.0\1. Action Point.runtimeconfig.json
+C:\Users\marty\source\repos\Exercises Functional Programming\Exercises Functional Programming\bin\Debug\net6.0\1. Action Point.dll
+C:\Users\marty\source\repos\Exercises Functional Programming\Exercises Functional Programming\bin\Debug\net6.0\1. Action Point.pdb
+C:\Users\marty\source\repos\Exercises Functional Programming\Exercises Functional Programming\obj\Debug\net6.0\1. Action Point.csproj.AssemblyReference.cache
+C:\Users\marty\source\repos\Exercises Functional Programming\Exercises Functional Programming\obj\Debug\net6.0\1. Action Point.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marty\source\repos\Exercises Functional Programming\Exercises Functional Programming\obj\Debug\net6.0\1. Action Point.AssemblyInfoInputs.cache
+C:\Users\marty\source\repos\Exercises Functional Programming\Exercises Functional Programming\obj\Debug\net6.0\1. Action Point.AssemblyInfo.cs
+C:\Users\marty\source\repos\Exercises Functional Programming\Exercises Functional Programming\obj\Debug\net6.0\1. Action Point.csproj.CoreCompileInputs.cache
+C:\Users\marty\source\repos\Exercises Functional Programming\Exercises Functional Programming\obj\Debug\net6.0\1. Action Point.dll
+C:\Users\marty\source\repos\Exercises Functional Programming\Exercises Functional Programming\obj\Debug\net6.0\refint\1. Action Point.dll
+C:\Users\marty\source\repos\Exercises Functional Programming\Exercises Functional Programming\obj\Debug\net6.0\1. Action Point.pdb
+C:\Users\marty\source\repos\Exercises Functional Programming\Exercises Functional Programming\obj\Debug\net6.0\1. Action Point.genruntimeconfig.cache
+C:\Users\marty\source\repos\Exercises Functional Programming\Exercises Functional Programming\obj\Debug\net6.0\ref\1. Action Point.dll

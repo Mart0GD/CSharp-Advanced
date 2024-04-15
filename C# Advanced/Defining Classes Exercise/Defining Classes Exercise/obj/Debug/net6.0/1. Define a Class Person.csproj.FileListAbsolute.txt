@@ -1,0 +1,15 @@
+C:\Users\marty\OneDrive\Documents\SoftUni Advanced\Defining Classes Exercise\Defining Classes Exercise\bin\Debug\net6.0\1. Define a Class Person.exe
+C:\Users\marty\OneDrive\Documents\SoftUni Advanced\Defining Classes Exercise\Defining Classes Exercise\bin\Debug\net6.0\1. Define a Class Person.deps.json
+C:\Users\marty\OneDrive\Documents\SoftUni Advanced\Defining Classes Exercise\Defining Classes Exercise\bin\Debug\net6.0\1. Define a Class Person.runtimeconfig.json
+C:\Users\marty\OneDrive\Documents\SoftUni Advanced\Defining Classes Exercise\Defining Classes Exercise\bin\Debug\net6.0\1. Define a Class Person.dll
+C:\Users\marty\OneDrive\Documents\SoftUni Advanced\Defining Classes Exercise\Defining Classes Exercise\bin\Debug\net6.0\1. Define a Class Person.pdb
+C:\Users\marty\OneDrive\Documents\SoftUni Advanced\Defining Classes Exercise\Defining Classes Exercise\obj\Debug\net6.0\1. Define a Class Person.csproj.AssemblyReference.cache
+C:\Users\marty\OneDrive\Documents\SoftUni Advanced\Defining Classes Exercise\Defining Classes Exercise\obj\Debug\net6.0\1. Define a Class Person.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marty\OneDrive\Documents\SoftUni Advanced\Defining Classes Exercise\Defining Classes Exercise\obj\Debug\net6.0\1. Define a Class Person.AssemblyInfoInputs.cache
+C:\Users\marty\OneDrive\Documents\SoftUni Advanced\Defining Classes Exercise\Defining Classes Exercise\obj\Debug\net6.0\1. Define a Class Person.AssemblyInfo.cs
+C:\Users\marty\OneDrive\Documents\SoftUni Advanced\Defining Classes Exercise\Defining Classes Exercise\obj\Debug\net6.0\1. Define a Class Person.csproj.CoreCompileInputs.cache
+C:\Users\marty\OneDrive\Documents\SoftUni Advanced\Defining Classes Exercise\Defining Classes Exercise\obj\Debug\net6.0\1. Define a Class Person.dll
+C:\Users\marty\OneDrive\Documents\SoftUni Advanced\Defining Classes Exercise\Defining Classes Exercise\obj\Debug\net6.0\refint\1. Define a Class Person.dll
+C:\Users\marty\OneDrive\Documents\SoftUni Advanced\Defining Classes Exercise\Defining Classes Exercise\obj\Debug\net6.0\1. Define a Class Person.pdb
+C:\Users\marty\OneDrive\Documents\SoftUni Advanced\Defining Classes Exercise\Defining Classes Exercise\obj\Debug\net6.0\1. Define a Class Person.genruntimeconfig.cache
+C:\Users\marty\OneDrive\Documents\SoftUni Advanced\Defining Classes Exercise\Defining Classes Exercise\obj\Debug\net6.0\ref\1. Define a Class Person.dll

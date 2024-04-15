@@ -1,0 +1,15 @@
+C:\Users\marty\source\repos\Functional Programming\5. Filter by Age\bin\Debug\net6.0\5. Filter by Age.exe
+C:\Users\marty\source\repos\Functional Programming\5. Filter by Age\bin\Debug\net6.0\5. Filter by Age.deps.json
+C:\Users\marty\source\repos\Functional Programming\5. Filter by Age\bin\Debug\net6.0\5. Filter by Age.runtimeconfig.json
+C:\Users\marty\source\repos\Functional Programming\5. Filter by Age\bin\Debug\net6.0\5. Filter by Age.dll
+C:\Users\marty\source\repos\Functional Programming\5. Filter by Age\bin\Debug\net6.0\5. Filter by Age.pdb
+C:\Users\marty\source\repos\Functional Programming\5. Filter by Age\obj\Debug\net6.0\5. Filter by Age.csproj.AssemblyReference.cache
+C:\Users\marty\source\repos\Functional Programming\5. Filter by Age\obj\Debug\net6.0\5. Filter by Age.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marty\source\repos\Functional Programming\5. Filter by Age\obj\Debug\net6.0\5. Filter by Age.AssemblyInfoInputs.cache
+C:\Users\marty\source\repos\Functional Programming\5. Filter by Age\obj\Debug\net6.0\5. Filter by Age.AssemblyInfo.cs
+C:\Users\marty\source\repos\Functional Programming\5. Filter by Age\obj\Debug\net6.0\5. Filter by Age.csproj.CoreCompileInputs.cache
+C:\Users\marty\source\repos\Functional Programming\5. Filter by Age\obj\Debug\net6.0\5. Filter by Age.dll
+C:\Users\marty\source\repos\Functional Programming\5. Filter by Age\obj\Debug\net6.0\refint\5. Filter by Age.dll
+C:\Users\marty\source\repos\Functional Programming\5. Filter by Age\obj\Debug\net6.0\5. Filter by Age.pdb
+C:\Users\marty\source\repos\Functional Programming\5. Filter by Age\obj\Debug\net6.0\5. Filter by Age.genruntimeconfig.cache
+C:\Users\marty\source\repos\Functional Programming\5. Filter by Age\obj\Debug\net6.0\ref\5. Filter by Age.dll

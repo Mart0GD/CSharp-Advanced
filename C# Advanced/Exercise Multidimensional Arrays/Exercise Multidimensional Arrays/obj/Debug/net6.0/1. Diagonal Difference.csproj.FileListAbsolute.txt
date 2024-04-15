@@ -1,0 +1,15 @@
+C:\Users\marty\source\repos\Exercise Multidimensional Arrays\Exercise Multidimensional Arrays\bin\Debug\net6.0\1. Diagonal Difference.exe
+C:\Users\marty\source\repos\Exercise Multidimensional Arrays\Exercise Multidimensional Arrays\bin\Debug\net6.0\1. Diagonal Difference.deps.json
+C:\Users\marty\source\repos\Exercise Multidimensional Arrays\Exercise Multidimensional Arrays\bin\Debug\net6.0\1. Diagonal Difference.runtimeconfig.json
+C:\Users\marty\source\repos\Exercise Multidimensional Arrays\Exercise Multidimensional Arrays\bin\Debug\net6.0\1. Diagonal Difference.dll
+C:\Users\marty\source\repos\Exercise Multidimensional Arrays\Exercise Multidimensional Arrays\bin\Debug\net6.0\1. Diagonal Difference.pdb
+C:\Users\marty\source\repos\Exercise Multidimensional Arrays\Exercise Multidimensional Arrays\obj\Debug\net6.0\1. Diagonal Difference.csproj.AssemblyReference.cache
+C:\Users\marty\source\repos\Exercise Multidimensional Arrays\Exercise Multidimensional Arrays\obj\Debug\net6.0\1. Diagonal Difference.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marty\source\repos\Exercise Multidimensional Arrays\Exercise Multidimensional Arrays\obj\Debug\net6.0\1. Diagonal Difference.AssemblyInfoInputs.cache
+C:\Users\marty\source\repos\Exercise Multidimensional Arrays\Exercise Multidimensional Arrays\obj\Debug\net6.0\1. Diagonal Difference.AssemblyInfo.cs
+C:\Users\marty\source\repos\Exercise Multidimensional Arrays\Exercise Multidimensional Arrays\obj\Debug\net6.0\1. Diagonal Difference.csproj.CoreCompileInputs.cache
+C:\Users\marty\source\repos\Exercise Multidimensional Arrays\Exercise Multidimensional Arrays\obj\Debug\net6.0\1. Diagonal Difference.dll
+C:\Users\marty\source\repos\Exercise Multidimensional Arrays\Exercise Multidimensional Arrays\obj\Debug\net6.0\refint\1. Diagonal Difference.dll
+C:\Users\marty\source\repos\Exercise Multidimensional Arrays\Exercise Multidimensional Arrays\obj\Debug\net6.0\1. Diagonal Difference.pdb
+C:\Users\marty\source\repos\Exercise Multidimensional Arrays\Exercise Multidimensional Arrays\obj\Debug\net6.0\1. Diagonal Difference.genruntimeconfig.cache
+C:\Users\marty\source\repos\Exercise Multidimensional Arrays\Exercise Multidimensional Arrays\obj\Debug\net6.0\ref\1. Diagonal Difference.dll

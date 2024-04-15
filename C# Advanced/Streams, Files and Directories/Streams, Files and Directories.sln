@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. Odd Lines", "Streams, Files and Directories\1. Odd Lines.csproj", "{D4B2D603-F88D-4366-8F05-2B7B34E328EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4B2D603-F88D-4366-8F05-2B7B34E328EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4B2D603-F88D-4366-8F05-2B7B34E328EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4B2D603-F88D-4366-8F05-2B7B34E328EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4B2D603-F88D-4366-8F05-2B7B34E328EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F09841C-9332-44D9-900E-62C7541EECF7}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+C:\Users\marty\source\repos\Exercises Sets and Dictionaries Advanced\10. ForceBook\bin\Debug\net6.0\91 ForceBook.exe
+C:\Users\marty\source\repos\Exercises Sets and Dictionaries Advanced\10. ForceBook\bin\Debug\net6.0\91 ForceBook.deps.json
+C:\Users\marty\source\repos\Exercises Sets and Dictionaries Advanced\10. ForceBook\bin\Debug\net6.0\91 ForceBook.runtimeconfig.json
+C:\Users\marty\source\repos\Exercises Sets and Dictionaries Advanced\10. ForceBook\bin\Debug\net6.0\91 ForceBook.dll
+C:\Users\marty\source\repos\Exercises Sets and Dictionaries Advanced\10. ForceBook\bin\Debug\net6.0\91 ForceBook.pdb
+C:\Users\marty\source\repos\Exercises Sets and Dictionaries Advanced\10. ForceBook\obj\Debug\net6.0\91 ForceBook.csproj.AssemblyReference.cache
+C:\Users\marty\source\repos\Exercises Sets and Dictionaries Advanced\10. ForceBook\obj\Debug\net6.0\91 ForceBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marty\source\repos\Exercises Sets and Dictionaries Advanced\10. ForceBook\obj\Debug\net6.0\91 ForceBook.AssemblyInfoInputs.cache
+C:\Users\marty\source\repos\Exercises Sets and Dictionaries Advanced\10. ForceBook\obj\Debug\net6.0\91 ForceBook.AssemblyInfo.cs
+C:\Users\marty\source\repos\Exercises Sets and Dictionaries Advanced\10. ForceBook\obj\Debug\net6.0\91 ForceBook.csproj.CoreCompileInputs.cache
+C:\Users\marty\source\repos\Exercises Sets and Dictionaries Advanced\10. ForceBook\obj\Debug\net6.0\91 ForceBook.dll
+C:\Users\marty\source\repos\Exercises Sets and Dictionaries Advanced\10. ForceBook\obj\Debug\net6.0\refint\91 ForceBook.dll
+C:\Users\marty\source\repos\Exercises Sets and Dictionaries Advanced\10. ForceBook\obj\Debug\net6.0\91 ForceBook.pdb
+C:\Users\marty\source\repos\Exercises Sets and Dictionaries Advanced\10. ForceBook\obj\Debug\net6.0\91 ForceBook.genruntimeconfig.cache
+C:\Users\marty\source\repos\Exercises Sets and Dictionaries Advanced\10. ForceBook\obj\Debug\net6.0\ref\91 ForceBook.dll

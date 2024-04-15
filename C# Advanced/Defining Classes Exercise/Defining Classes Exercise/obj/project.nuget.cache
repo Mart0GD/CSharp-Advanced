@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "g9qpYFnbGqSp4o6y3OfXwMK6xtIcQPd2ZR7bjx8o908t5RZr6dQR9q/H7X09yARh/cYQMx075PMCtvJT8TdfCw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\marty\\OneDrive\\Documents\\SoftUni Advanced\\Defining Classes Exercise\\Defining Classes Exercise\\DefiningClasses.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marty\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.13\\microsoft.windowsdesktop.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\marty\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.13\\microsoft.netcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\marty\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.13\\microsoft.aspnetcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\marty\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.13\\microsoft.netcore.app.host.win-x64.6.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

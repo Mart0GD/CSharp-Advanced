@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "hJWr3T+FWd/P6TB5V61FQSjKK0Tap4Jo2REb1mG+99cfFTsechSOBFQ6RJF6X6SwR8mmsgYHYfWXGWTefh2xGA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\marty\\source\\repos\\Exercise Multidimensional Arrays\\4. Matrix Shuffling\\4. Matrix Shuffling.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marty\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.13\\microsoft.windowsdesktop.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\marty\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.13\\microsoft.netcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\marty\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.13\\microsoft.aspnetcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\marty\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.13\\microsoft.netcore.app.host.win-x64.6.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

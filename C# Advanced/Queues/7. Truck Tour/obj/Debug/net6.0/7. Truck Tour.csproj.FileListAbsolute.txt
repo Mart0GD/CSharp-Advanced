@@ -1,0 +1,15 @@
+C:\Users\marty\source\repos\CSharp_Advanced\7. Truck Tour\bin\Debug\net6.0\7. Truck Tour.exe
+C:\Users\marty\source\repos\CSharp_Advanced\7. Truck Tour\bin\Debug\net6.0\7. Truck Tour.deps.json
+C:\Users\marty\source\repos\CSharp_Advanced\7. Truck Tour\bin\Debug\net6.0\7. Truck Tour.runtimeconfig.json
+C:\Users\marty\source\repos\CSharp_Advanced\7. Truck Tour\bin\Debug\net6.0\7. Truck Tour.dll
+C:\Users\marty\source\repos\CSharp_Advanced\7. Truck Tour\bin\Debug\net6.0\7. Truck Tour.pdb
+C:\Users\marty\source\repos\CSharp_Advanced\7. Truck Tour\obj\Debug\net6.0\7. Truck Tour.csproj.AssemblyReference.cache
+C:\Users\marty\source\repos\CSharp_Advanced\7. Truck Tour\obj\Debug\net6.0\7. Truck Tour.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marty\source\repos\CSharp_Advanced\7. Truck Tour\obj\Debug\net6.0\7. Truck Tour.AssemblyInfoInputs.cache
+C:\Users\marty\source\repos\CSharp_Advanced\7. Truck Tour\obj\Debug\net6.0\7. Truck Tour.AssemblyInfo.cs
+C:\Users\marty\source\repos\CSharp_Advanced\7. Truck Tour\obj\Debug\net6.0\7. Truck Tour.csproj.CoreCompileInputs.cache
+C:\Users\marty\source\repos\CSharp_Advanced\7. Truck Tour\obj\Debug\net6.0\7. Truck Tour.dll
+C:\Users\marty\source\repos\CSharp_Advanced\7. Truck Tour\obj\Debug\net6.0\refint\7. Truck Tour.dll
+C:\Users\marty\source\repos\CSharp_Advanced\7. Truck Tour\obj\Debug\net6.0\7. Truck Tour.pdb
+C:\Users\marty\source\repos\CSharp_Advanced\7. Truck Tour\obj\Debug\net6.0\7. Truck Tour.genruntimeconfig.cache
+C:\Users\marty\source\repos\CSharp_Advanced\7. Truck Tour\obj\Debug\net6.0\ref\7. Truck Tour.dll

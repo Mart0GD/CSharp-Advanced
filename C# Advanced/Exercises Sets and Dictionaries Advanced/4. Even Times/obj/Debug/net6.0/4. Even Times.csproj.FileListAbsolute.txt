@@ -1,0 +1,15 @@
+C:\Users\marty\source\repos\Exercises Sets and Dictionaries Advanced\4. Even Times\bin\Debug\net6.0\4. Even Times.exe
+C:\Users\marty\source\repos\Exercises Sets and Dictionaries Advanced\4. Even Times\bin\Debug\net6.0\4. Even Times.deps.json
+C:\Users\marty\source\repos\Exercises Sets and Dictionaries Advanced\4. Even Times\bin\Debug\net6.0\4. Even Times.runtimeconfig.json
+C:\Users\marty\source\repos\Exercises Sets and Dictionaries Advanced\4. Even Times\bin\Debug\net6.0\4. Even Times.dll
+C:\Users\marty\source\repos\Exercises Sets and Dictionaries Advanced\4. Even Times\bin\Debug\net6.0\4. Even Times.pdb
+C:\Users\marty\source\repos\Exercises Sets and Dictionaries Advanced\4. Even Times\obj\Debug\net6.0\4. Even Times.csproj.AssemblyReference.cache
+C:\Users\marty\source\repos\Exercises Sets and Dictionaries Advanced\4. Even Times\obj\Debug\net6.0\4. Even Times.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marty\source\repos\Exercises Sets and Dictionaries Advanced\4. Even Times\obj\Debug\net6.0\4. Even Times.AssemblyInfoInputs.cache
+C:\Users\marty\source\repos\Exercises Sets and Dictionaries Advanced\4. Even Times\obj\Debug\net6.0\4. Even Times.AssemblyInfo.cs
+C:\Users\marty\source\repos\Exercises Sets and Dictionaries Advanced\4. Even Times\obj\Debug\net6.0\4. Even Times.csproj.CoreCompileInputs.cache
+C:\Users\marty\source\repos\Exercises Sets and Dictionaries Advanced\4. Even Times\obj\Debug\net6.0\4. Even Times.dll
+C:\Users\marty\source\repos\Exercises Sets and Dictionaries Advanced\4. Even Times\obj\Debug\net6.0\refint\4. Even Times.dll
+C:\Users\marty\source\repos\Exercises Sets and Dictionaries Advanced\4. Even Times\obj\Debug\net6.0\4. Even Times.pdb
+C:\Users\marty\source\repos\Exercises Sets and Dictionaries Advanced\4. Even Times\obj\Debug\net6.0\4. Even Times.genruntimeconfig.cache
+C:\Users\marty\source\repos\Exercises Sets and Dictionaries Advanced\4. Even Times\obj\Debug\net6.0\ref\4. Even Times.dll

@@ -1,0 +1,15 @@
+C:\Users\marty\source\repos\CSharp_Advanced\11. Key Revolve\obj\Debug\net6.0\11. Key Revolve.csproj.AssemblyReference.cache
+C:\Users\marty\source\repos\CSharp_Advanced\11. Key Revolve\obj\Debug\net6.0\11. Key Revolve.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marty\source\repos\CSharp_Advanced\11. Key Revolve\obj\Debug\net6.0\11. Key Revolve.AssemblyInfoInputs.cache
+C:\Users\marty\source\repos\CSharp_Advanced\11. Key Revolve\obj\Debug\net6.0\11. Key Revolve.AssemblyInfo.cs
+C:\Users\marty\source\repos\CSharp_Advanced\11. Key Revolve\obj\Debug\net6.0\11. Key Revolve.csproj.CoreCompileInputs.cache
+C:\Users\marty\source\repos\CSharp_Advanced\11. Key Revolve\bin\Debug\net6.0\11. Key Revolve.exe
+C:\Users\marty\source\repos\CSharp_Advanced\11. Key Revolve\bin\Debug\net6.0\11. Key Revolve.deps.json
+C:\Users\marty\source\repos\CSharp_Advanced\11. Key Revolve\bin\Debug\net6.0\11. Key Revolve.runtimeconfig.json
+C:\Users\marty\source\repos\CSharp_Advanced\11. Key Revolve\bin\Debug\net6.0\11. Key Revolve.dll
+C:\Users\marty\source\repos\CSharp_Advanced\11. Key Revolve\bin\Debug\net6.0\11. Key Revolve.pdb
+C:\Users\marty\source\repos\CSharp_Advanced\11. Key Revolve\obj\Debug\net6.0\11. Key Revolve.dll
+C:\Users\marty\source\repos\CSharp_Advanced\11. Key Revolve\obj\Debug\net6.0\refint\11. Key Revolve.dll
+C:\Users\marty\source\repos\CSharp_Advanced\11. Key Revolve\obj\Debug\net6.0\11. Key Revolve.pdb
+C:\Users\marty\source\repos\CSharp_Advanced\11. Key Revolve\obj\Debug\net6.0\11. Key Revolve.genruntimeconfig.cache
+C:\Users\marty\source\repos\CSharp_Advanced\11. Key Revolve\obj\Debug\net6.0\ref\11. Key Revolve.dll

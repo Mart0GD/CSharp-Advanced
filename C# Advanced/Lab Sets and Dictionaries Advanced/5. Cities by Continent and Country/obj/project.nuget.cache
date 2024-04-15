@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "768MBkEPEh4SxoNibW+kM5/si5mf09OxuzsVp75P0qeTPkmrNMOU2VRQcxodXOr2jK8MN1Gt6fAmG18Uwos7vA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\marty\\source\\repos\\Lab Sets and Dictionaries Advanced\\5. Cities by Continent and Country\\5. Cities by Continent and Country.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marty\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.13\\microsoft.windowsdesktop.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\marty\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.13\\microsoft.netcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\marty\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.13\\microsoft.aspnetcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\marty\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.13\\microsoft.netcore.app.host.win-x64.6.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

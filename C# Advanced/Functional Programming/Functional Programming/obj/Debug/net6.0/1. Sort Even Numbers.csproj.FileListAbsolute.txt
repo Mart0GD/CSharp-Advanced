@@ -1,0 +1,15 @@
+C:\Users\marty\source\repos\Functional Programming\Functional Programming\obj\Debug\net6.0\1. Sort Even Numbers.csproj.AssemblyReference.cache
+C:\Users\marty\source\repos\Functional Programming\Functional Programming\obj\Debug\net6.0\1. Sort Even Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marty\source\repos\Functional Programming\Functional Programming\obj\Debug\net6.0\1. Sort Even Numbers.AssemblyInfoInputs.cache
+C:\Users\marty\source\repos\Functional Programming\Functional Programming\obj\Debug\net6.0\1. Sort Even Numbers.AssemblyInfo.cs
+C:\Users\marty\source\repos\Functional Programming\Functional Programming\obj\Debug\net6.0\1. Sort Even Numbers.csproj.CoreCompileInputs.cache
+C:\Users\marty\source\repos\Functional Programming\Functional Programming\bin\Debug\net6.0\1. Sort Even Numbers.exe
+C:\Users\marty\source\repos\Functional Programming\Functional Programming\bin\Debug\net6.0\1. Sort Even Numbers.deps.json
+C:\Users\marty\source\repos\Functional Programming\Functional Programming\bin\Debug\net6.0\1. Sort Even Numbers.runtimeconfig.json
+C:\Users\marty\source\repos\Functional Programming\Functional Programming\bin\Debug\net6.0\1. Sort Even Numbers.dll
+C:\Users\marty\source\repos\Functional Programming\Functional Programming\bin\Debug\net6.0\1. Sort Even Numbers.pdb
+C:\Users\marty\source\repos\Functional Programming\Functional Programming\obj\Debug\net6.0\1. Sort Even Numbers.dll
+C:\Users\marty\source\repos\Functional Programming\Functional Programming\obj\Debug\net6.0\refint\1. Sort Even Numbers.dll
+C:\Users\marty\source\repos\Functional Programming\Functional Programming\obj\Debug\net6.0\1. Sort Even Numbers.pdb
+C:\Users\marty\source\repos\Functional Programming\Functional Programming\obj\Debug\net6.0\1. Sort Even Numbers.genruntimeconfig.cache
+C:\Users\marty\source\repos\Functional Programming\Functional Programming\obj\Debug\net6.0\ref\1. Sort Even Numbers.dll

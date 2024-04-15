@@ -1,0 +1,15 @@
+C:\Users\marty\source\repos\Exercises Sets and Dictionaries Advanced\8. Ranking\bin\Debug\net6.0\8. Ranking.exe
+C:\Users\marty\source\repos\Exercises Sets and Dictionaries Advanced\8. Ranking\bin\Debug\net6.0\8. Ranking.deps.json
+C:\Users\marty\source\repos\Exercises Sets and Dictionaries Advanced\8. Ranking\bin\Debug\net6.0\8. Ranking.runtimeconfig.json
+C:\Users\marty\source\repos\Exercises Sets and Dictionaries Advanced\8. Ranking\bin\Debug\net6.0\8. Ranking.dll
+C:\Users\marty\source\repos\Exercises Sets and Dictionaries Advanced\8. Ranking\bin\Debug\net6.0\8. Ranking.pdb
+C:\Users\marty\source\repos\Exercises Sets and Dictionaries Advanced\8. Ranking\obj\Debug\net6.0\8. Ranking.csproj.AssemblyReference.cache
+C:\Users\marty\source\repos\Exercises Sets and Dictionaries Advanced\8. Ranking\obj\Debug\net6.0\8. Ranking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marty\source\repos\Exercises Sets and Dictionaries Advanced\8. Ranking\obj\Debug\net6.0\8. Ranking.AssemblyInfoInputs.cache
+C:\Users\marty\source\repos\Exercises Sets and Dictionaries Advanced\8. Ranking\obj\Debug\net6.0\8. Ranking.AssemblyInfo.cs
+C:\Users\marty\source\repos\Exercises Sets and Dictionaries Advanced\8. Ranking\obj\Debug\net6.0\8. Ranking.csproj.CoreCompileInputs.cache
+C:\Users\marty\source\repos\Exercises Sets and Dictionaries Advanced\8. Ranking\obj\Debug\net6.0\8. Ranking.dll
+C:\Users\marty\source\repos\Exercises Sets and Dictionaries Advanced\8. Ranking\obj\Debug\net6.0\refint\8. Ranking.dll
+C:\Users\marty\source\repos\Exercises Sets and Dictionaries Advanced\8. Ranking\obj\Debug\net6.0\8. Ranking.pdb
+C:\Users\marty\source\repos\Exercises Sets and Dictionaries Advanced\8. Ranking\obj\Debug\net6.0\8. Ranking.genruntimeconfig.cache
+C:\Users\marty\source\repos\Exercises Sets and Dictionaries Advanced\8. Ranking\obj\Debug\net6.0\ref\8. Ranking.dll

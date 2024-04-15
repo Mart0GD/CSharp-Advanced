@@ -1,0 +1,15 @@
+C:\Users\marty\OneDrive\Documents\SoftUni Advanced\Defining Classes Exercise\Pokemon Trainer\bin\Debug\net6.0\Pokemon Trainer.exe
+C:\Users\marty\OneDrive\Documents\SoftUni Advanced\Defining Classes Exercise\Pokemon Trainer\bin\Debug\net6.0\Pokemon Trainer.deps.json
+C:\Users\marty\OneDrive\Documents\SoftUni Advanced\Defining Classes Exercise\Pokemon Trainer\bin\Debug\net6.0\Pokemon Trainer.runtimeconfig.json
+C:\Users\marty\OneDrive\Documents\SoftUni Advanced\Defining Classes Exercise\Pokemon Trainer\bin\Debug\net6.0\Pokemon Trainer.dll
+C:\Users\marty\OneDrive\Documents\SoftUni Advanced\Defining Classes Exercise\Pokemon Trainer\bin\Debug\net6.0\Pokemon Trainer.pdb
+C:\Users\marty\OneDrive\Documents\SoftUni Advanced\Defining Classes Exercise\Pokemon Trainer\obj\Debug\net6.0\Pokemon Trainer.csproj.AssemblyReference.cache
+C:\Users\marty\OneDrive\Documents\SoftUni Advanced\Defining Classes Exercise\Pokemon Trainer\obj\Debug\net6.0\Pokemon Trainer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marty\OneDrive\Documents\SoftUni Advanced\Defining Classes Exercise\Pokemon Trainer\obj\Debug\net6.0\Pokemon Trainer.AssemblyInfoInputs.cache
+C:\Users\marty\OneDrive\Documents\SoftUni Advanced\Defining Classes Exercise\Pokemon Trainer\obj\Debug\net6.0\Pokemon Trainer.AssemblyInfo.cs
+C:\Users\marty\OneDrive\Documents\SoftUni Advanced\Defining Classes Exercise\Pokemon Trainer\obj\Debug\net6.0\Pokemon Trainer.csproj.CoreCompileInputs.cache
+C:\Users\marty\OneDrive\Documents\SoftUni Advanced\Defining Classes Exercise\Pokemon Trainer\obj\Debug\net6.0\Pokemon Trainer.dll
+C:\Users\marty\OneDrive\Documents\SoftUni Advanced\Defining Classes Exercise\Pokemon Trainer\obj\Debug\net6.0\refint\Pokemon Trainer.dll
+C:\Users\marty\OneDrive\Documents\SoftUni Advanced\Defining Classes Exercise\Pokemon Trainer\obj\Debug\net6.0\Pokemon Trainer.pdb
+C:\Users\marty\OneDrive\Documents\SoftUni Advanced\Defining Classes Exercise\Pokemon Trainer\obj\Debug\net6.0\Pokemon Trainer.genruntimeconfig.cache
+C:\Users\marty\OneDrive\Documents\SoftUni Advanced\Defining Classes Exercise\Pokemon Trainer\obj\Debug\net6.0\ref\Pokemon Trainer.dll

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "lgMwBTn+gs6EniTFUL9t2gezXJs0nFfPX5ZRr+HXubsxDQ9ZBaBL8T00AQIMloTH5Nj6RNGWOjso7Up4mHRc1A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\marty\\source\\repos\\Exercise Multidimensional Arrays\\9. Miner\\9. Miner.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marty\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.13\\microsoft.windowsdesktop.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\marty\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.13\\microsoft.netcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\marty\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.13\\microsoft.aspnetcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\marty\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.13\\microsoft.netcore.app.host.win-x64.6.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
